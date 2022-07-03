@@ -5,8 +5,8 @@ Introdução <p>
 Projeto Front-end de site para ações sociais
 
 Tecnologias <p>
-React
-HTML5
-CSS
-Consumo de API
-Jest
+1. React <p>
+2. HTML5 <p>
+3. CSS <p>
+4. Consumo de API <p>
+5. Jest <p>
