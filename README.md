@@ -1,7 +1,7 @@
 # projeto-integrador-II-turma-05
 Projeto para Faculdade - Univesp
 
-Introdução
+Introdução <p>
 Projeto Front-end de site para ações sociais
 
 Tecnologias
