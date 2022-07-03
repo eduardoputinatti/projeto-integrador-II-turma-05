@@ -4,7 +4,7 @@ Projeto para Faculdade - Univesp
 Introdução <p>
 Projeto Front-end de site para ações sociais
 
-Tecnologias
+Tecnologias <p>
 React
 HTML5
 CSS
